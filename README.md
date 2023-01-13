@@ -32,7 +32,7 @@ Future createCustomer() async {
         "email": 's@c.com',
         "password": "123",
         "billing": {
-          "first_name": "Samarth",
+          "first_name": "Michael",
         }
       },
     );
